@@ -8,12 +8,6 @@ Express and React files sit on the same machine, and Express does double duty: i
 
 - For example: a DigitalOcean VPS running Express on port 80
 
-## Option 2: Splitting them apart
-
-Host the Express API on one machine, and the React app on another. This will be covered by the CDA.
-
-- For example: React app served by Netlify, API server running on a DigitalOcean VPS
-
 ### To Deploy in Heroku
 
 1. Download the Heroku CLI
